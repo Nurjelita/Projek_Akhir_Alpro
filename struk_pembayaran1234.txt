@@ -1,0 +1,8 @@
+======== STRUK PEMBAYARAN PAJAK ========
+ID Pajak      : 1234
+Nama Wajib    : Jelita
+Alamat Pajak  : Jl.Monggo
+Jenis Pajak   : PBB
+Total Pajak   : Rp500.00
+Status Bayar  : Lunas
+========================================
